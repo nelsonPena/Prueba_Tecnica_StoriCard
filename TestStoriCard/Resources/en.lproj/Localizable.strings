@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  TestStoriCard
+
+  Created by Nelson Peña Agudelo on 3/08/24.
+  
+*/
+
+"generic_text_error" = "Something went wrong";
+"try_later_text_error" = "Error, please try again later";
+"movies_main_title" = "Movies";
+"done_erron_button" = "Done";
+"title_detail" = "Detail";
+"title_button_trilers" = "See tráiler";
+"title_button_no_trilers" = "Trailers not found";
+"no_internet_error" = "No internet connection";
